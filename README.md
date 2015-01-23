@@ -1,0 +1,2 @@
+# jpyrate_oanda
+OANDAのStreaming APIを利用して為替レートを簡単に取得するサンプル
