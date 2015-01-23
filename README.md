@@ -26,6 +26,7 @@ OANDAのStreaming APIを利用して為替レートを簡単に取得するサ�
 Ubuntuの場合は次のようにしたら良いかもしれません。
 ````
 $ sudo apt-get install g++ libstdc++6 libcurl4-nss-dev
+````
 
 その後makeでOK。
 
